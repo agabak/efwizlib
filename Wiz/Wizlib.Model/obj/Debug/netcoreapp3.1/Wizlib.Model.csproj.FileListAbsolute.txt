@@ -1,0 +1,9 @@
+C:\dev\mvc\architecture\wiz\Wiz\Wizlib.Model\bin\Debug\netcoreapp3.1\Wizlib.Model.deps.json
+C:\dev\mvc\architecture\wiz\Wiz\Wizlib.Model\bin\Debug\netcoreapp3.1\Wizlib.Model.dll
+C:\dev\mvc\architecture\wiz\Wiz\Wizlib.Model\bin\Debug\netcoreapp3.1\Wizlib.Model.pdb
+C:\dev\mvc\architecture\wiz\Wiz\Wizlib.Model\obj\Debug\netcoreapp3.1\Wizlib.Model.AssemblyInfoInputs.cache
+C:\dev\mvc\architecture\wiz\Wiz\Wizlib.Model\obj\Debug\netcoreapp3.1\Wizlib.Model.AssemblyInfo.cs
+C:\dev\mvc\architecture\wiz\Wiz\Wizlib.Model\obj\Debug\netcoreapp3.1\Wizlib.Model.csproj.CoreCompileInputs.cache
+C:\dev\mvc\architecture\wiz\Wiz\Wizlib.Model\obj\Debug\netcoreapp3.1\Wizlib.Model.dll
+C:\dev\mvc\architecture\wiz\Wiz\Wizlib.Model\obj\Debug\netcoreapp3.1\Wizlib.Model.pdb
+C:\dev\mvc\architecture\wiz\Wiz\Wizlib.Model\obj\Debug\netcoreapp3.1\Wizlib.Model.csprojAssemblyReference.cache
