@@ -6,4 +6,3 @@ C:\dev\mvc\architecture\wiz\Wiz\Wizlib.Model\obj\Debug\netcoreapp3.1\Wizlib.Mode
 C:\dev\mvc\architecture\wiz\Wiz\Wizlib.Model\obj\Debug\netcoreapp3.1\Wizlib.Model.csproj.CoreCompileInputs.cache
 C:\dev\mvc\architecture\wiz\Wiz\Wizlib.Model\obj\Debug\netcoreapp3.1\Wizlib.Model.dll
 C:\dev\mvc\architecture\wiz\Wiz\Wizlib.Model\obj\Debug\netcoreapp3.1\Wizlib.Model.pdb
-C:\dev\mvc\architecture\wiz\Wiz\Wizlib.Model\obj\Debug\netcoreapp3.1\Wizlib.Model.csprojAssemblyReference.cache
